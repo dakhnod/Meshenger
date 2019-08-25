@@ -1,4 +1,6 @@
 # Meshenger - An Open-Source P2P Messenger
+Development of version 2.0.0 continues on this [repo](https://github.com/meshenger-app/meshenger-android).
+
 
 This Android app allows voice- and videocommunication without any server or Internet access. Simply scan each others contact QR-Code and call each other. This works on most networks such as community networks or even company networks.
 
